@@ -1,3 +1,8 @@
 body {
-    background-color:rgb(233, 226, 168);
+    background-color:wheat;
+}
+
+#highSchool {
+    background-color:darkslategray;
+    margin-bottom: 5px;
 }
