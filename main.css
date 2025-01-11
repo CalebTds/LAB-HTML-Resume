@@ -1,3 +1,16 @@
 body {
-    background-color:rgb(233, 226, 168);
+    background-color:wheat;
+}
+
+.HHS {
+    font-family: Arial, Helvetica, sans-serif,'Times New Roman', Times, serif;
+    font: size 10px;
+}
+
+#highSchool {
+    margin-bottom: size 5px;
+}
+
+#jobHHS {
+    text-align: center;
 }
